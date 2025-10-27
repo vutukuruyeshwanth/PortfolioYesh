@@ -49,3 +49,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
 * **GitHub:** [github.com/vutukuruyeshwanth](https://github.com/vutukuruyeshwanth)
 
 ---
+
+## Project Status
+This website was developed as part of an internship project. It serves as a portfolio piece showcasing skills in Full Stack web development.
